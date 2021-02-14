@@ -28,7 +28,7 @@ twitter_username: sugeeth14
 github_username:  sugeeth14
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
