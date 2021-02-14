@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-You can contact me [here](raghava.sugeeth@gmail.com)
+You can contact me at raghava.sugeeth@gmail.com
