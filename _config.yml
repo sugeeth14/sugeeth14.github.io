@@ -30,6 +30,7 @@ github_username:  sugeeth14
 # These are the fields added available by default in jekyll.
 author: Sai Raghavendra Sugeeth
 linkedin_username: sugeeth
+markdown: kramdown
 
 # Fields created which are not present by default
 copyright: "Sai Raghavendra Sugeeth"
