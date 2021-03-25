@@ -184,7 +184,7 @@ But for simplicity and to not go into realm of computationally not feasible area
 let $$\hat{y}$$ be such a sequence found by beam searching the teacher now the sequence level KD is as below.
 
 $$L_{SEQ-KD} ≈ −\sum_{t \in T} 1 \{t = \hat{y}\} \log p(t \mid s) 
-             = − \log p(t = yˆ \mid s)$$
+             = − \log p(t = \hat{y} \mid s)$$
 
 #### Why is this a good approximation ? 
 
