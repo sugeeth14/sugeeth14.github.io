@@ -21,7 +21,7 @@
 title: Sugeeth's blog
 email: raghava.sugeeth@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I am Sugeeth from Andhra Pradesh, India. Not sure what to do yet, but will update this as I go further.
+  Hi, I am Sugeeth from Andhra Pradesh, India. From now on I will post stuff related to NLP and possibly my thoughts on life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sugeeth14.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sugeeth14
