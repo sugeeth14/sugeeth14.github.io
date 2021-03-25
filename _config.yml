@@ -31,6 +31,8 @@ github_username:  sugeeth14
 author: Sai Raghavendra Sugeeth
 linkedin_username: sugeeth
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 
 # Fields created which are not present by default
 copyright: "Sai Raghavendra Sugeeth"
