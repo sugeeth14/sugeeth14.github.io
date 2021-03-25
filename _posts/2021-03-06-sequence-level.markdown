@@ -201,8 +201,3 @@ This is because large portion of $$q$$'s mass lies in single sequence.
 Now we sum this value over the entire sequence to get the total Loss.
 
 $$L_{WORD-KD} = -\sum_{j = 1}^{J}\sum_{ k = 1}^{|\nu|}q(t_{j} = k \mid s,t_{ <j }) *  \log p(t_{j} = k \mid s,t_{<j})$$ -->
-
-
-<script type="text/javascript" charset="utf-8" 
-src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
-https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
